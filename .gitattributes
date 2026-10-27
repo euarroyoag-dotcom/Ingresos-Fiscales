@@ -1,0 +1,4 @@
+# No modificar los saltos de línea de los datos (algunos CSV vienen con CRLF)
+data/** -text
+*.R text eol=lf
+*.md text eol=lf
