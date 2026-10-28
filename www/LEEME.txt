@@ -1,0 +1,3 @@
+Coloque aquí la imagen de la portada con el nombre portada.jpg (también sirve portada.png o portada.webp).
+La app la muestra automáticamente en la pestaña "Portada". Use una imagen que tengan permiso de usar
+y cite su origen en la pestaña "Metodología y referencias".
